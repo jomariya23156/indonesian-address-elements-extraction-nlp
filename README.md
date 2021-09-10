@@ -5,7 +5,7 @@ The main competition page and problem statement can be found on Kaggle: https://
 **All trained models are available here: https://drive.google.com/file/d/1IaDkMDyXvPXVl3buq4SjQkFZksQSKniC/view?usp=sharing**  
 
 ## Result  
-**Final result:** The best model achieved **59.62%** accuracy on Test set ranked **117th** from **1,034** teams.  
+**Final result:** The best model achieved **59.62%** accuracy on Test set ranked **117th** from **1,034** teams (Top 12%).   
 
 ## All Models performance
 - Model 1 (xx_ent_wiki_sm model with nlp.initialize()) Test Accuracy: **58.60%**  
